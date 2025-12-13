@@ -9,7 +9,7 @@
         nav { display: flex; justify-content: center; gap: 20px; padding: 10px; background: #444; }
         nav a { color: white; text-decoration: none; font-weight: bold; }
         .section { padding: 40px 20px; max-width: 1200px; margin: auto; }
-        .hero { background: url('[https://picsum.photos/1600/500](https://gurushots.com/photo/d0cdae52cedf90b73c6c1f6d10690723)') center/cover; color: white; padding: 120px 20px; text-align: center; }
+        .hero { background: url('https://picsum.photos/1600/500](https://gurushots.com/photo/d0cdae52cedf90b73c6c1f6d10690723') center/cover; color: white; padding: 120px 20px; text-align: center; }
         .products { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
         .card { background: white; border-radius: 10px; padding: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.15); }
         .card img { width: 100%; border-radius: 10px; }
